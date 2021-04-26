@@ -1,4 +1,4 @@
-### eps1.0_hellofriend.mov
+### 1.1_ones-and-zer0es
 
 <img src="https://media.giphy.com/media/VHHxxFAeLaYzS/source.gif" align="right" 
 width="400" height="250">
@@ -22,3 +22,11 @@ width="25" height="25">
 width="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" 
 width="25" height="25">
+
+<br/>
+
+//lifeMotto
+if(sad() === true){
+  sad().stop();
+  beAwesome();
+}
