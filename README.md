@@ -1,4 +1,4 @@
-### 1.1_ones-and-zer0es
+1.1_ones-and-zer0es
 
 <img src="https://media.giphy.com/media/VHHxxFAeLaYzS/source.gif" align="right" 
 width="400" height="250">
@@ -25,8 +25,8 @@ width="25" height="25">
 
 <br/>
 
-//lifeMotto
-if(sad() === true){
-  sad().stop();
-  beAwesome();
-}
+//lifeMotto                                                                                                                                                         
+if(sad() === true){                                                                                                                                                 
+  sad().stop();                                                                                                                                                     
+  beAwesome();                                                                                                                                                       
+}                                                                                                                                                                     
